@@ -1,0 +1,23 @@
+{
+    "account_id": "90eab9f1",
+    "company_name": "",
+    "business_hours": "Mon-Fri 8:00 AM - 6:00 PM",
+    "office_address": "",
+    "services_supported": [],
+    "emergency_definition": [
+        "Fire alarm triggered",
+        "Sprinkler leak"
+    ],
+    "emergency_routing_rules": "",
+    "non_emergency_routing_rules": "",
+    "call_transfer_rules": "",
+    "integration_constraints": "",
+    "after_hours_flow_summary": "",
+    "office_hours_flow_summary": "",
+    "questions_or_unknowns": [
+        "Company name not identified",
+        "Business hours missing",
+        "Emergency definitions missing"
+    ],
+    "notes": "Generated from demo call transcript"
+}

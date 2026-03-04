@@ -1,0 +1,20 @@
+{
+    "account_id": "90eab9f1",
+    "company_name": "",
+    "business_hours": "",
+    "office_address": "",
+    "services_supported": [],
+    "emergency_definition": [],
+    "emergency_routing_rules": "",
+    "non_emergency_routing_rules": "",
+    "call_transfer_rules": "",
+    "integration_constraints": "",
+    "after_hours_flow_summary": "",
+    "office_hours_flow_summary": "",
+    "questions_or_unknowns": [
+        "Company name not identified",
+        "Business hours missing",
+        "Emergency definitions missing"
+    ],
+    "notes": "Generated from demo call transcript"
+}
